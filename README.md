@@ -1,5 +1,5 @@
-# diknas
+# Website Dinas Pendidikan Kabupaten
 Source Code Webiste Dinas Pendidikan Lengkap Dengan Data Sekolah + Data Siswa dan Data Guru.
 
-Untuk Link Demo bisa diakses di : http://dinasdikbud-bombana.com
+jika berminat silahkan hubungi saya di catur.crh@gmail.com
 
